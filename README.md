@@ -1,4 +1,4 @@
--👋 Hi, I’m @Inyourdream8
+- 👋 Hi, I’m Eren
 - 👀 I’m interested in full-stack development.  
 - 🌱 I’m currently learning advanced TypeScript type safety and improving API scalability.  
 - 💞 I’m looking to collaborate on projects that focus on secure authentication and backend optimization.  
